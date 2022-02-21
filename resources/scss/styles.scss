@@ -1,0 +1,70 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+$primary: #138D75;
+$secondary: #0E6655;
+
+$white: #f1f1f1;
+$black: #1a1a1a;
+
+$lgtGray: #919191;
+$mdmGray: #6f6f6f;
+$drkGray: #2e2e2e;
+
+$red: #C0392B;
+$yellow: #F4D03F;
+$green: #27AE60;
+$blue: #2980B9;
+$navy: #34495E;
+$violet: #6C3483;
+$copper: #873600;
+$gold: #D68910;
+
+.bg-primary {
+    background-color: $primary !important;
+}
+.bg-secondary {
+    background-color: $secondary !important;
+}
+.bg-white {
+    background-color: $white !important;
+}
+.bg-black {
+    background-color: $black !important;
+}
+.bg-lgtGray {
+    background-color: $lgtGray !important;
+}
+.bg-mdmGray {
+    background-color: $mdmGray !important;
+}
+.bg-drkGray {
+    background-color: $drkGray !important;
+}
+
+.txt-primary {
+    color: $primary !important;
+}
+.txt-secondary {
+    color: $secondary !important;
+}
+.txt-white {
+    color: $white !important;
+}
+.txt-black {
+    color: $black !important;
+}
+.txt-lgtGray {
+    color: $lgtGray !important;
+}
+.txt-mdmGray {
+    color: $mdmGray !important;
+}
+.txt-drkGray {
+    color: $drkGray !important;
+}
+
+small.error {
+    color: red;
+}
